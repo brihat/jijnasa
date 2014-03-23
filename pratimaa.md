@@ -105,3 +105,26 @@ Rudra is the pratimā of Brahma
 caturakṣaraḥ saṃvatsaraśca! turakṣaraḥ prajāpatisteno haivāsyaiṣa pratimā
 
 [chāndogya upaniṣad 6.2.1](http://gretil.sub.uni-goettingen.de/gretil/1_sanskr/1_veda/4_upa/chup___u.htm) ekam evādvitīyaṃ
+
+
+============================
+
+
+Here is [Ramanuja school's interpretation](http://narayanastra.blogspot.fi/p/blog-page.html) (see comments)
+
+Humble Bhagavata BandhuJuly 20, 2013 at 3:17 PM
+
+Dear Munshi,
+
+I have referred to a book (in Tamil) called "Vishnu Chitta Vijayam, Part 4", published by Srivaishnava Sudarsanam/Srivaishnavasri, Srirangam (page 120) in which the following convincing argument is given:
+
+"It is the opinion of the ignorant that there is no Murti Puja in the Vedas. There are many places in which the Vedas talk about Murti Puja. For example, in the Rigveda (Mandala X, Sukta 130, Mantra 3), we have the statement 'kAsIt pramA pratimA' which means 'what was the size and what was the deity form (mUrti form) of that God?'. Sayana's Bhashya for 'pratimA' here goes as 'pratimA means the vigraha form which the God takes in order to accept the sacrificial offerings in a yajna' (haviH prati yogitvena mIyate nirmIyata iti pratimA devatA'.
+
+In addition, there is a description of the yajna called 'iShTishayanaM'. (Taittiriya Samhita 5.2.7) There is an instruction to conduct the yajna with a form similar to that of Garuda using bricks. Here, we also find the following statement: 'If one worships the golden mUrti of Purusha seated on the mUrti of that bird, the conductor of the sacrifices (yajamAna) obtains all glory'. This is an obvious reference to Lord Vishnu seated on His mount, Garuda."
+
+In addition, it is said in the Ramayana that Rama worshiped Lord Vishnu (Himself) in the mUrti form inside ayodhya (in Ayodhya Kanda). In this worship, Valmiki states that Lord Rama performed a Vedic yajna in the temple for the purpose of this worship. In addition, when Rama goes to the hermitage of Agastya (in Aranya Kanda), he finds that Agastya, the sage, had consecrated the mUrti forms of many Vedic devatas. These two incidents also support the fact that mUrti pUja is supported by the Vedas.
+
+
+
+
+
