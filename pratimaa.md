@@ -124,7 +124,8 @@ In addition, there is a description of the yajna called 'iShTishayanaM'. (Taitti
 
 In addition, it is said in the Ramayana that Rama worshiped Lord Vishnu (Himself) in the mUrti form inside ayodhya (in Ayodhya Kanda). In this worship, Valmiki states that Lord Rama performed a Vedic yajna in the temple for the purpose of this worship. In addition, when Rama goes to the hermitage of Agastya (in Aranya Kanda), he finds that Agastya, the sage, had consecrated the mUrti forms of many Vedic devatas. These two incidents also support the fact that mUrti pUja is supported by the Vedas.
 
+===================================
 
+References:
 
-
-
+Rigveda 10.130.3  kāsīt pramā pratimā kiṃ nidānam ajyaṃ kim āsīt paridhiḥ ka āsīt
