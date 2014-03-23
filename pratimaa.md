@@ -3,8 +3,6 @@
 Here is a [Dvaita interpretation](https://in.groups.yahoo.com/neo/groups/SUMADHWASEVA/conversations/topics/3473?l=1) of _na tasya pratimā asti_
 
 
-
-
      > Can you please clarify clarify the following verses regarding the idol worship and nature?
 
 I had seen these verses close to a decade ago, in some pages on the
@@ -88,4 +86,17 @@ interpretation.
 
 Regards,
 Krishna
+
+
+===============
+
+The verses cited can be found here:
+
+Lakṣmī as ghṛtam (ghee)
+
+[RV_07.008.01.1{11}](http://fiindolo.sub.uni-goettingen.de/gretil/1_sanskr/1_veda/1_sam/1_rv/rv_07_u.htm)         indhe rājā samaryo namobhiryasya pratīkamāhutaṃ ghṛtena
+[sāmaveda 1 1 2 0708a](http://gretil.sub.uni-goettingen.de/gretil/1_sanskr/1_veda/1_sam/samavedu.htm) indhe rājā samaryo namobhiryasya pratīkamāhutaṃ ghṛtena (1.70)
+
+
+
 
