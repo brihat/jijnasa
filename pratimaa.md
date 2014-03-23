@@ -102,4 +102,6 @@ Rudra is the pratimā of Brahma
 
 [śatapatha 11.1.6.13](http://fiindolo.sub.uni-goettingen.de/gretil/1_sanskr/1_veda/2_bra/satapath/sb_11_u.htm)
  tasmādāhuḥ prajāpatiḥ saṃvatsara ityātmano hyetam pratimāmasṛjata yadveva
-caturakṣaraḥ saṃvatsaraśca! turakṣaraḥ prajāpatisteno haivāsyaiṣa pratimā 
+caturakṣaraḥ saṃvatsaraśca! turakṣaraḥ prajāpatisteno haivāsyaiṣa pratimā
+
+[chāndogya upaniṣad 6.2.1](http://gretil.sub.uni-goettingen.de/gretil/1_sanskr/1_veda/4_upa/chup___u.htm) ekam evādvitīyaṃ
