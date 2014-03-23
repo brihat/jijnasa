@@ -90,13 +90,16 @@ Krishna
 
 ===============
 
-The verses cited can be found here:
+The referenced verses cited can be found here:
 
 Lakṣmī as ghṛtam (ghee)
 
 [RV_07.008.01.1{11}](http://fiindolo.sub.uni-goettingen.de/gretil/1_sanskr/1_veda/1_sam/1_rv/rv_07_u.htm)         indhe rājā samaryo namobhiryasya pratīkamāhutaṃ ghṛtena
+
 [sāmaveda 1 1 2 0708a](http://gretil.sub.uni-goettingen.de/gretil/1_sanskr/1_veda/1_sam/samavedu.htm) indhe rājā samaryo namobhiryasya pratīkamāhutaṃ ghṛtena (1.70)
 
+Rudra is the pratimā of Brahma
 
-
-
+[śatapatha 11.1.6.13](http://fiindolo.sub.uni-goettingen.de/gretil/1_sanskr/1_veda/2_bra/satapath/sb_11_u.htm)
+ tasmādāhuḥ prajāpatiḥ saṃvatsara ityātmano hyetam pratimāmasṛjata yadveva
+caturakṣaraḥ saṃvatsaraśca! turakṣaraḥ prajāpatisteno haivāsyaiṣa pratimā 
