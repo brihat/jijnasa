@@ -4,7 +4,7 @@ MY LIST:
 Bannanje (12):
     10 + Svetasvatara, Mahanarayana
     Others: Anu-narayana Upanishad, Sumantra Upan, Mantrikopanishad, Subala Upa, Atharva Shikha, Kaushitaki
-    From [Atharva-shikha Upanishad Pravachana](http://www.kannadaaudio.com/Songs/Discourses/Shri-Bannanje-Govindacharya/Atharva-Shikopanishath/Part-1.rm)
+    From [Atharva-shikha Upanishad Pravachana][1]
 
 Nikhilananda (11):
     10 + Svetasvatara
@@ -149,3 +149,5 @@ http://wiki.yoga-vidya.de/Oupnek%27hat
 
 Original Upanishads:
 https://sites.google.com/site/harshalarajesh/madhvacharyaslibrary
+
+[1]: http://www.kannadaaudio.com/Songs/Discourses/Shri-Bannanje-Govindacharya/Atharva-Shikopanishath/Part-1.rm
