@@ -100,6 +100,15 @@ Yogatattva and Yogakundalini are Hatha-yoga related.
 
 Atharvashikha[1] is a very small upanishad exploring the meaning of OM (A U M).
 
+### Dvaita version
+
+Dvaita [2] says that "Narayana Upanishad" is the 10th chaper of Taittiriya
+Aranyaka of Krishna Yajur Veda. However their version of Mahanarayana Upanishad
+is that from the Atharva Veda, agrees with the version published by
+Maharshi Mahesh Yogi's MUM website. Jacob's version as well as MUM's version
+both have 25 khandas.
+
+
 The 10 principal Upanishads are: Isha, Kena, Katha, Prashna,
 Mundaka, Mandukya, Aitareya, Taittiriya, Chandogya and
 Brihadaranyaka. The remaining ones depend on which school of
@@ -148,8 +157,11 @@ http://yousigma.com/upanishad.html
 50 Upanishads of Dara Shikoh:
 http://wiki.yoga-vidya.de/Oupnek%27hat
 
+Prabhupada's list from Caitanya Caritamrta Adi 1.108:
+http://www.vedabase.com/en/cc/adi/7/108
 
 Original Upanishads:
 https://sites.google.com/site/harshalarajesh/madhvacharyaslibrary
 
 [1]: http://www.kannadaaudio.com/Songs/Discourses/Shri-Bannanje-Govindacharya/Atharva-Shikopanishath/Part-1.rm
+[2]: http://www.dvaita.org/shaastra/upanishad.html
