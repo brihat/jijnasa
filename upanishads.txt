@@ -38,6 +38,11 @@ Patrick Olivelle (12):
 Valerie Roebuck (13):
     10 + Svetasvatara, Kaushitaki, Maitri
 
+Paul Deussen (13):
+    10 + Svetasvatara, Kaushitaki, Maitri
+    Pure Vedanta Upanishads: Garbha, Pranagnihotra, Pinda; Atma, Sarvopanishatsara, Garuda
+    He does *not* include Subala or Paingala among 60 Upanishads, but does include Jabala, Atharvasikha, etc.
+
 Audorbindo:
     10 + Svetasvatara, Kaivalya, Nila Rudra
 
