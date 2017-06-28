@@ -5,7 +5,6 @@ Other candidates:
 
 Mostly Yes:
 
-Amritabindu (Krsna-yajurveda yoga upanishad): About mind
 Maha Upanishad [Vaishnava + Saamaanya]: Narayana as ultimate. Contains "vasudhaiva kutumbakam"
 Subala (saamaanya upanishad): Extrapolates Purusha Sukta and glorifies Narayana. Frequently quoted by Ramanuja.
 Nadabindu Upanishad (Rg-Veda yoga upanishad): Discusses OM. Non-sectarian. Dated ~100BCE.
@@ -21,6 +20,7 @@ Jabala (sannyasa upanishad): Describes city of Varanasi and how to renounce, dut
 
 
 Definitely not:
+Amritabindu (Krsna-yajurveda yoga upanishad): Verse 7. One who knows "I am Brahman" attains Brahman.
 Atma Upanishad: Nothing new. Regurgitation of Chandogya and Bhagavad Gita
 Narayana Upanishad: Modeled on the style of Pancha-devatas (see Surya Upanishad, Shiva Upanishad, Ganesha Upanishad, etc) 
 Nrsimha-tapani: Pre-7th century. Asserts 4-fold identity of Narasimha, Om, Brahman and Atma.
