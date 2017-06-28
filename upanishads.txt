@@ -4,10 +4,14 @@ MY LIST: 10 + 4 universally accepted as "old canon" (Svetasvatara, Kausitaki, Ma
 Other candidates:
 
 Mostly Yes:
-Amritabindu (Krsna-yajurveda yoga upanishad): Wikipedia uses the longer 38-verse translation.
-       Choose the 22-verse shorter version (from SanskritDocuments.org). It does not contain
-       interpolations like "choose clean place for meditation, etc." Nor does it interpolate
-       about Pranayama, Pratyahara, or yogic postures.
+Amritabindu (Krsna-yajurveda yoga upanishad): This refers to the 22-verse recension in [abu]
+       Not to be confused with the 38-verse Amrita-Nada Upanishad [anu].
+       Wikipedia uses the longer 38-verse translation.
+       Choose the 22-verse version. It does not talk about Pranayama, Pratyahara, or yogic postures at all!
+       See English translation in "30_Minor_Upanishads" which accurately translates 22-verse version.
+[abu]: http://sanskritdocuments.org/doc_upanishhat/amrtabindu_upan.html?lang=kn
+[anu]: http://sanskritdocuments.org/doc_upanishhat/amritanada.html?lang=kn
+
 Maha Upanishad [Vaishnava + Saamaanya]: Narayana as ultimate. Contains "vasudhaiva kutumbakam"
 Subala (saamaanya upanishad): Extrapolates Purusha Sukta and glorifies Narayana. Frequently quoted by Ramanuja.
 Nadabindu Upanishad (Rg-Veda yoga upanishad): Discusses OM. Non-sectarian. Dated ~100BCE.
